@@ -1,0 +1,6 @@
+## First text for github practice
+## This leveraging theodingproject
+## terminal cmd touch hello_world.txt into a nano editor
+
+hello world
+
